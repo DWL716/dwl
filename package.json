@@ -1,5 +1,5 @@
 {
-  "name": "dwl",
+  "name": "dengwl",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,9 +9,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["vue","vue-template"],
+  "author": "dwl ",
+  "homepage": "https://github.com/DWL716/dwl",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DWL716/dwl"
+  },
+  "license": "MIT",
   "dependencies": {
     "commander": "^6.2.1",
     "download-git-repo": "^3.0.2",
